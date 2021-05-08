@@ -1,18 +1,24 @@
 # saierhao-game
+..这是一个赛尔号桌面应用
 
 ## Project setup
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 启动服务
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 打web端包
 ```
 npm run build
+```
+### 打桌面应用的包
+```
+cd dist
+npm run start
 ```
 
 ### Lints and fixes files
